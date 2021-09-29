@@ -19,21 +19,6 @@ This package supports Apple's SKAdNetwork and AppTrackingTransparency frameworks
 
 For more information about iOS 14 technical integration, including this package's support functionality, please see the full [iOS 14 technical documentation](https://unityads.unity3d.com/help/monetization/ios14).
 
-## Installing the package
-
-### From this repository
-
-1. Download this repo to your hard drive.
-2. In the Unity Editor, open the [Unity Package Manager](https://docs.unity3d.com/Manual/Packages.html) window. 
-3. Click the **+** button and select **Add package from disk...**.
-4. Navigate to the location where you downloaded the repo and select the iOS14 Support package (_..\com.unity.ads.ios-support-master\com.unity.ads.ios-support\package.json_) to install the package. If successful, the iOS14 Support package will appear in the package manager list (note that you must have **All packages** selected to view it). 
-
-### From Unity Package Manager
-
-1. In the Unity Editor, select **Window** > **Package** Manager to open the Package Manager.
-2. Select the **Advertisement** package from the list, then select the most recent verified version.
-3. Click the **Install** or **Update** button.
-
 ## Apple developer API extensions
 
 This package provides access to the following Apple developer APIs:
